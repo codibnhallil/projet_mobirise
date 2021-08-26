@@ -1,0 +1,22 @@
+<div class="text">
+    <p style="color: black; font-size: 1.6em; font-weight: bold; text-align: center;">
+        ONE PAGE BOOTSTRAP <br />
+          TEMPLATE DEMO
+        </p>
+    
+    <p  style="color: black; font-size: 1.6em; font-weight: bold; text-align: center;">
+    FULLSCREEN SLIDE HEADER <br />
+            DEMO
+    </p >
+
+    <p style="color: black; font-size: 1.6em; font-weight: bold; text-align: center;">
+    VIDEO BACKGROUND   <br />
+    JUMBOTRON DEMO
+    </p>
+    
+    
+   
+    <p style="color: black; font-size: 1.6em; font-weight: bold; text-align: center;">
+    BOOTSTRAP BLOC   <br />
+    TEMPLATE DEMO
+    </p>
